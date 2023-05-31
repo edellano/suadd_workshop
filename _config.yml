@@ -1,1 +1,11 @@
 theme: minima
+title: Scene Understanding for Autonomous Drone Delivery
+description: SUADD Workshop in DAGM GCPR 2023, September 19th
+show_downloads: "false"
+header_pages:
+  - index.md
+  - program.md
+  - challenge.md
+header:
+  image: images/header.jpg
+
