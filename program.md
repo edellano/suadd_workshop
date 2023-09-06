@@ -19,8 +19,7 @@ The following schedule is still subject to change:
 | **14:30 - 15:00**	|	Jürgen Gall (30 min): TBA |
 | **15:00 - 15:30**	|	Break (30 min) |
 | **15:30 - 15:45**	|	Dataset and Challenge overview (15 min) |
-| **15:45 - 16:05** |   2nd place solution in Scene Understanding for
-Autonomous Drone (Mykola Lavreniuk, Nivedita Rufus, Unnikrishnan R Nair) |
+| **15:45 - 16:05** |   2nd place solution in Scene Understanding for Autonomous Drone (Mykola Lavreniuk, Nivedita Rufus, Unnikrishnan R Nair) |
 | **16:05 - 16:25**	|	Depth Estimation: DinoV2 meets MIM (Denis Vorotyntsev) |
 | **16:25 - 16:45**	|	Oral Session – Challenge Winners |
 | **16:45 – 17:00**	|	Closing Remarks |
