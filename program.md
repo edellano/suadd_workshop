@@ -15,7 +15,7 @@ The following schedule is still subject to change:
 |-------------|-------------|
 | **13:25 - 13:30**	|   Welcome (5 minutes) |
 | **13:30 - 14:00**	|	Daniel Gehrig (30 min): Adaptive and Efficient Perception with Event-based Cameras |
-| **14:00 - 14:30**	|	Dengxin Dai (30 min): TBA |
+| **14:00 - 14:30**	|	Dengxin Dai (30 min): Cost-Efficient LiDAR Perception |
 | **14:30 - 15:00**	|	Jürgen Gall (30 min): Dealing with Rare Data: Few-Shot Semantic Image Synthesis and its Application to Nutrient Deficiency Detection |
 | **15:00 - 15:30**	|	Break (30 min) |
 | **15:30 - 15:45**	|	Dataset and Challenge overview (15 min) |
