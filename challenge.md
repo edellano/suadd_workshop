@@ -19,4 +19,7 @@ The challenge is hosted through [AICrowd](https://www.aicrowd.com/challenges/sce
 
 # Results!
 
-Winners will be announced on June 30th 2023.
+Winners have been announced on [AICrowd](aicrowd.com):
+
+Semantic segmentation winners: [Final Leaderboard](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/semantic-segmentation/leaderboards)
+Mono-depth estimation winners: [Final Leaderboard](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/mono-depth-perception/leaderboards)
